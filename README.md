@@ -1,8 +1,8 @@
-# Hi! 😀
+# Romero Robb's SQL Portfolio 😀
+Hey!
 
-## I am Romero! Currently I am an aspiring data analyst
-I am in the process of learning: SQL, Python and Tableau and strive to further my understanding in data science
-any feedback would be greatly appreciated! 
+This repository is a collection of projects that i use to practice SQL. While i'm building my portfolio i'll add projects to to this repository and highlight ones that showcase mutliple skills. For now take a look around and feel free to provide any feedback.
+
 
 
 

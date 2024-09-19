@@ -9,12 +9,12 @@ This repository is a collection of projects that i use to practice SQL. While i'
 # Basic Skill Practice
 ## Queries for imdbmovies
   General Queriers
-    -AVG
-    -SELECT
-    -WHERE, LIKE
-    -ORDER BY
-    -GROUP
-    -REPLACE, CAST
+    AVG
+    SELECT
+    WHERE, LIKE
+    ORDER BY
+    GROUP
+    REPLACE, CAST
     
 
 

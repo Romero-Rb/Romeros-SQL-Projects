@@ -8,14 +8,20 @@ This repository is a collection of projects that i use to practice SQL. While i'
 
 # Basic Skill Practice
 ## Queries for imdbmovies
-  General Queriers
+  General Queries
     AVG
     SELECT
     WHERE, LIKE
     ORDER BY
     GROUP
     REPLACE, CAST
-    
+    LIMIT
+## Store Inventory and Profit
+  Table Creation
+    DELETE
+    UPDATE
+    ALTER TABLE
+    CREATE
 
 
 

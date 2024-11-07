@@ -4,7 +4,8 @@ Hey!
 This repository is a collection of projects that i use to practice SQL. While i'm building my portfolio i'll add projects to to this repository and highlight ones that showcase mutliple skills. For now take a look around and feel free to provide any feedback.
 
 
-# Basic Skill Practice
+# Skill Practice Projects
+
 ## Queries for imdbmovies
 Project Title  | Description   |  Topic
 -------------- | ------------- | ------------------

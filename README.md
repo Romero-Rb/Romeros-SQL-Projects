@@ -6,7 +6,6 @@ This repository is a collection of projects that i use to practice SQL. While i'
 
 # Skill Practice Projects
 
-## Queries for imdbmovies
 Project Title  | Description   |  Topic
 -------------- | ------------- | ------------------
 [Queries for IMDB movie ratings](https://github.com/Romero-Rb/Romeros-SQL-Projects/blob/main/Queries%20for%20imdb%20movies%20ratings.sql)| Performied queries on an IMDB movie dataset displaying data according to different conditions | data cleaning, data manipulation, basic SQL queries, average calculation, data analysis

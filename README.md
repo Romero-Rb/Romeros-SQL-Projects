@@ -10,9 +10,15 @@ Project Title  | Description   |  Topic
 -------------- | ------------- | ------------------
 [Queries for IMDB movie ratings](https://github.com/Romero-Rb/Romeros-SQL-Projects/blob/main/Queries%20for%20imdb%20movies%20ratings.sql)| Performied queries on an IMDB movie dataset displaying data according to different conditions | data cleaning, data manipulation, basic SQL queries, average calculation, data analysis
 [Store Inventory and Income](https://github.com/Romero-Rb/Romeros-SQL-Projects/blob/main/Store%20Inventory%20and%20Income.sql)| Practice dataset for table creation and manipulation | data manipulation, table creation, data cleaning, basic SQL queries
+[Employee Turnover Analysis]
 
 
+# Skill Development Goals
 
+➖ CTE (Common Table Expressions)
+➖ SubQueries / Recursive Queries
+➖ Utilizing PIVOT 
+➖ DBMS implementation
 
 
 

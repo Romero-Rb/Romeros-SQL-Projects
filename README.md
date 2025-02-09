@@ -15,10 +15,10 @@ Project Title  | Description   |  Topic
 
 # Skill Development Goals
 
-➖ CTE (Common Table Expressions)
-➖ SubQueries / Recursive Queries
-➖ Utilizing PIVOT 
-➖ DBMS implementation
+  ➖ CTE (Common Table Expressions)
+  ➖ SubQueries / Recursive Queries
+  ➖ Utilizing PIVOT 
+  ➖ DBMS implementation
 
 
 
